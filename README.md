@@ -1,1 +1,1 @@
-# React-Basic-Projects
+Practising react with basic applications
