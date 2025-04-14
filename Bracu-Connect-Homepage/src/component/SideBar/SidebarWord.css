@@ -1,0 +1,31 @@
+
+
+.sidebar-word{
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sidebar-word:hover{
+    background-color: rgb(0, 0, 0);
+    .context{
+        color: white;
+    }
+}
+
+.pretext{
+    margin: 0;
+    font-size: 20px;
+    color: gray;
+    margin-right: 15px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0 0 3px 15px;
+}
+
+.context{
+    color: gray;
+    font-size: 14px;
+    padding: 0 0 3px 0;
+}
